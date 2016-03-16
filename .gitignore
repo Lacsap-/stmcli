@@ -1,6 +1,7 @@
-# Ignore stm files
+# Files
 *.txt
-# Ignore virtualenv
+*.log
+*.db
+# Folders 
 env/
-# Ignore sqlite database
-stm.db
+__pycache__
